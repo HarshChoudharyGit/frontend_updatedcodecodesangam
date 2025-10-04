@@ -10,7 +10,7 @@
    },
    "name": "test_code",
    "version": "1.0.0",
-   "main": "index.js",
+   "main": "indexx.html",
    "scripts": {
       "build": "npm install",
       "start": "npm start"
